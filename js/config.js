@@ -3,7 +3,7 @@ window.APP_CONFIG = {
   "appName": "ไพ่เทพพยากรณ์",
   "subtitle": "เปิดไพ่เพื่อค้นหาข้อคิดและแนวทางของคุณ",
   "cardCount": 80,
-  "quickChoiceCount": 21,
+  "quickChoiceCount": 14,
   "cardImagePath": "images/cards/",
   "cardImageExtension": ".jpg",
   "cardBackImage": "images/card-back.jpg",
